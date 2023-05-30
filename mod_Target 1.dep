@@ -1,13 +1,0 @@
-Dependencies for Project 'mod', Target 'Target 1': (DO NOT MODIFY !)
-F (.\Startup.s)(0x51C81B7E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\ARM\RV31\INC-I D:\ARM\CMSIS\Include-I D:\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
-F (.\keyboard.h)(0x6463E7D0)()
-F (.\led.h)(0x6463E7B4)()
-F (.\main.c)(0x6463E87A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\ARM\RV31\INC-I D:\ARM\CMSIS\Include-I D:\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
-I (F:\PPSW\ARCHIVE\MODULY\led.h)(0x6463E7B4)
-I (F:\PPSW\ARCHIVE\MODULY\keyboard.h)(0x6463E7D0)
-F (.\led.c)(0x6463E7B4)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\ARM\RV31\INC-I D:\ARM\CMSIS\Include-I D:\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
-I (D:\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
-I (F:\PPSW\ARCHIVE\MODULY\led.h)(0x6463E7B4)
-F (.\keyboard.c)(0x6463E65E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\ARM\RV31\INC-I D:\ARM\CMSIS\Include-I D:\ARM\Inc\Philips-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
-I (D:\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
-I (F:\PPSW\ARCHIVE\MODULY\keyboard.h)(0x6463E7D0)

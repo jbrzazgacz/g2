@@ -3,7 +3,9 @@
 <pre>
 <h1>µVision Build Log</h1>
 <h2>Project:</h2>
-F:\PPSW\ARCHIVE\MODULY\mod.uvproj
+C:\Users\jakub\Desktop\g2\g2\mod.uvproj
 Project File Date:  05/16/2023
 
 <h2>Output:</h2>
+Clean started: Project: 'mod'
+   deleting intermediate output files for target 'Target 1'
